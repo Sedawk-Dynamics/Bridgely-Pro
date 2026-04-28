@@ -1,7 +1,7 @@
 import Hero from '@/components/sections/hero';
 import Header from '@/components/sections/header';
 import LogoCarousel from '@/components/sections/logo-carousel';
-import Gallery from '@/components/sections/gallery';
+import GlobalPresence from '@/components/sections/global-presence';
 import Services from '@/components/sections/services';
 import HowItWorks from '@/components/sections/how-it-works';
 import Features from '@/components/sections/features';
@@ -18,7 +18,7 @@ export default function Home() {
       <LogoCarousel />
       <Services />
       <HowItWorks />
-      <Gallery />
+      <GlobalPresence />
       <Features />
       <Testimonials />
       <Blog />
